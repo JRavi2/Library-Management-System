@@ -15,10 +15,8 @@ It also provides a feature to register a new user to the system by taking its us
 You can either use an IDE, or, you can first compile it using gcc.
 
 To compile it with gcc, just use the following command:
-
 `g++ lbm.cpp -o lbm`
 
 Then run the program using
-
 `./lbm`
 `
